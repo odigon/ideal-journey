@@ -1,2 +1,2 @@
 # ideal-journey
-example repo
+example repo.
